@@ -1,0 +1,11 @@
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.deps.json
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.json
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.dev.json
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.dll
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.pdb
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.csprojAssemblyReference.cache
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfoInputs.cache
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfo.cs
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.dll
+E:\DesignPatternProjects_Martin\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.pdb
