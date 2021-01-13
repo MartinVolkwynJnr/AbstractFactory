@@ -3,13 +3,12 @@ using AbstractFactory.Interfaces;
 
 namespace AbstractFactory.Objects
 {
-    class Wolf : ICarnivore
+    class Popplio : IWaterType
     {
-        public void Eat(IHerbivore h)
+        public void Beats(IFireType h)
         {
-            // Eat Bison
             Console.WriteLine(this.GetType().Name +
-                              " eats " + h.GetType().Name);
+                              " has type Advantage over " + h.GetType().Name);
         }
     }
 }

@@ -7,15 +7,15 @@ namespace AbstractFactory
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pokemon World");
 
             // Create and run the African animal world
-            var africa = new AnimalWorld<Africa>();
-            africa.RunFoodChain();
+            var Alola = new PokemonWorld<Alola>();
+            Alola.WhoHasTypeAdvantage();
 
             // Create and run the American animal world
-            var america = new AnimalWorld<America>();
-            america.RunFoodChain();
+            var Indigo = new PokemonWorld<Indigo>();
+            Indigo.WhoHasTypeAdvantage();
 
             Console.ReadKey();
         }
