@@ -9,13 +9,16 @@ namespace AbstractFactory
         {
             Console.WriteLine("Hello World!");
 
-            // Create and run the African animal world
-            var africa = new AnimalWorld<Africa>();
-            africa.RunFoodChain();
+            var Eevee = new Pokemon<Eevee>();
+            Eevee.RunType();
+            Eevee.RunTypeStrongAgainst();
+            Eevee.RunTypeWeakAgainst();
 
-            // Create and run the American animal world
-            var america = new AnimalWorld<America>();
-            america.RunFoodChain();
+            // Create and run the African animal world
+            var Pikachu = new Pokemon<Pikachu>();
+            Pikachu.RunType();
+            Pikachu.RunTypeStrongAgainst();
+            Pikachu.RunTypeWeakAgainst();
 
             Console.ReadKey();
         }

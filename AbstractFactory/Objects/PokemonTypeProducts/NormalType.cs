@@ -2,7 +2,7 @@
 
 namespace AbstractFactory.Objects
 {
-    class Bison : IHerbivore
+    class NormalType : IWaterType
     {
     }
 }

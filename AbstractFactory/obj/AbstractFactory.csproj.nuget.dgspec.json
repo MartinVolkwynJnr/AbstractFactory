@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj": {}
+    "E:\\Private\\Projects\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj": {
+    "E:\\Private\\Projects\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "E:\\Private\\Projects\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+        "projectPath": "E:\\Private\\Projects\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\mvolkwyn247\\.nuget\\packages\\",
-        "outputPath": "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\AbstractFactory\\AbstractFactory\\obj\\",
+        "outputPath": "E:\\Private\\Projects\\AbstractFactory\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,9 +3,9 @@ using AbstractFactory.Interfaces;
 
 namespace AbstractFactory.Objects
 {
-    class Wolf : ICarnivore
+    class WaterType : IElectricType
     {
-        public void Eat(IHerbivore h)
+        public void Eat(IWaterType h)
         {
             // Eat Bison
             Console.WriteLine(this.GetType().Name +

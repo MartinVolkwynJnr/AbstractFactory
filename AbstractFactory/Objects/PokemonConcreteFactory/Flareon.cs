@@ -2,14 +2,14 @@
 
 namespace AbstractFactory.Objects
 {
-    class Africa : IContinentFactory
+    class Africa : IPokemonFactory
     {
-        public IHerbivore CreateHerbivore()
+        public IWaterType CreateHerbivore()
         {
             return new Wildebees();
         }
 
-        public ICarnivore CreateCarnivore()
+        public IElectricType CreateCarnivore()
         {
             return new Lion();
         }

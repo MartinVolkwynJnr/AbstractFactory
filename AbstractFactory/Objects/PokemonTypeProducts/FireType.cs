@@ -2,7 +2,7 @@
 
 namespace AbstractFactory.Objects
 {
-    class Wildebees : IHerbivore
+    class FireType : IWaterType
     {
     }
 }
